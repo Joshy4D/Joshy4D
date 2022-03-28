@@ -1,20 +1,12 @@
-## Welcome to my profile!
+# Olá! Eu me chamo Josué, e se quiserem podem me chamar de Joshyy. E sejam bem vindos ao meu perfil! 😃
 
-<div>
-  <a href="https://github.com/JoshyyDev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoshyyDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoshyyDev&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
-<div style="display: inline_block">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
- 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshyydev&show_icons=true&theme=aura)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshyydev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
- 
-<div>
- 
- 
+## Tecnologias que eu mais uso!
 
+<div style="display: inline_block"><br/>
+<img align="center" alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </div>
