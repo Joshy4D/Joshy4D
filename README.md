@@ -1,8 +1,8 @@
-# Sejam bem vindos ao meu perfil! 😃
+# Welcome to my profile! 😃
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshyydev&show_icons=true&theme=aura)
 
-## Tecnologias que eu uso
+## Technologies I use
 
 <div style="display: inline_block">
   <img align="center" alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
